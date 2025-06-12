@@ -1,0 +1,6 @@
+@AyanshiDemo_HostAddress = http://localhost:5023
+
+GET {{AyanshiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
